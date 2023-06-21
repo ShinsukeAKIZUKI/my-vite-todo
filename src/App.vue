@@ -7,6 +7,7 @@
 </template>
 
 <style>
+@import 'assets/css/destyle.css';
 .wrap {
   display: flex;
   flex-direction: column;
